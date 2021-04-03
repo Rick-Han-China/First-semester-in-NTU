@@ -1,1 +1,1 @@
-records about Control system
+records about control system
